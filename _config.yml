@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image-alignment-580x300.jpg"
+  avatar           : "/images/aigenerated.png"
   name             : "Lu Haishan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Beijing"
+  location         : "China"
   employer         : "Peking University"
   uri              : # URL
   email            : "none@example.org" 
